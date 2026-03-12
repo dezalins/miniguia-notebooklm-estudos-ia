@@ -37,15 +37,19 @@ How can strength training and endurance training be combined efficiently to prom
 
 This repository is organized as follows:
 
-docs/
+## docs
 
-- study-guide.md → consolidated knowledge
-- prompts.md → prompt engineering
-- insights.md → key insights generated
+- [Study Guide](docs/study-guide.md) → consolidated knowledge extracted from the sources  
+- [Prompts](docs/prompts.md) → prompt engineering experiments used in NotebookLM  
+- [Insights](docs/insights.md) → key insights generated from AI analysis  
 
-sources/
+## sources
 
-- references.md → list of study materials
+- [References](sources/references.md) → list of study materials used to build the notebook  
+
+## assets
+
+- [Diagram](assets/diagram.md) → visual representation of the AI learning workflow
 
 ---
 
@@ -54,15 +58,15 @@ sources/
 The project followed an **AI-assisted learning workflow**.
 
 Curated Sources
-↓
+→
 NotebookLM Context Analysis
-↓
+→
 Prompt Engineering
-↓
+→
 Knowledge Extraction
-↓
+→
 Iterative Refinement
-↓
+→
 Structured Study Guide
 
 
