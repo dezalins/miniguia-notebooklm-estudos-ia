@@ -41,7 +41,6 @@ This repository is organized as follows:
 
 - [Study Guide](docs/study-guide.md) → consolidated knowledge extracted from the sources  
 - [Prompts](docs/prompts.md) → prompt engineering experiments used in NotebookLM  
-- [Insights](docs/insights.md) → key insights generated from AI analysis  
 
 ## sources
 
@@ -89,7 +88,7 @@ An **8-week 5k running plan** was generated while maintaining strength training.
 
 See full study guide:
 
-docs/study-guide.md
+[Study Guide](docs/study-guide.md)
 
 ---
 
@@ -99,21 +98,7 @@ Prompt experimentation was used to extract deeper insights from the sources.
 
 See prompt examples:
 
-docs/prompts.md
-
----
-
-# 📊 Key Insights
-
-AI-generated analysis revealed important relationships between:
-
-- strength training and fat loss
-- endurance training and metabolic adaptation
-- nutrition and muscle protein synthesis
-
-More details:
-
-docs/insights.md
+[Prompts](docs/prompts.md)
 
 ---
 
