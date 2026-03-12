@@ -125,8 +125,19 @@ docs/insights.md
 - GitHub
 
 ---
+# 🚀 Future Improvements
 
-# 🚀 Conclusion
+Possible next steps for this project include:
+
+- Building a training dataset of exercise science concepts.
+- Breating a Power BI dashboard from extracted insights.
+- Experimenting with RAG (Retrieval Augmented Generation) for sports science knowledge.
+- Testing additional prompt engineering strategies.
+- Expanding the knowledge base with more scientific papers.
+
+---
+
+# 🎓 Conclusion and Learning Outcome
 
 This project demonstrates how AI can function as:
 
@@ -136,69 +147,3 @@ This project demonstrates how AI can function as:
 
 Combining **human curiosity with AI reasoning** allows complex topics to be explored faster and more systematically.
 
-
----
-
-# 🔬 Key Concepts Studied
-
-- Progressive Overload
-- Muscle Hypertrophy
-- mTOR vs AMPK
-- Concurrent Training
-- Energy Metabolism
-- Hybrid Athlete Training
-
----
-
-# 🏃 Applied Case
-
-An **8-week 5k running plan** was generated while maintaining strength training.
-
-See full study guide:
-
-docs/study-guide.md
-
----
-
-# 🤖 Prompt Engineering
-
-Prompt experimentation was used to extract deeper insights from the sources.
-
-See prompt examples:
-
-docs/prompts.md
-
----
-
-# 📊 Key Insights
-
-AI-generated analysis revealed important relationships between:
-
-- strength training and fat loss
-- endurance training and metabolic adaptation
-- nutrition and muscle protein synthesis
-
-More details:
-
-docs/insights.md
-
----
-
-# ⚙️ Tools Used
-
-- NotebookLM
-- Artificial Intelligence
-- Markdown
-- GitHub
-
----
-
-# 🚀 Conclusion
-
-This project demonstrates how AI can function as:
-
-- a **research assistant**
-- a **knowledge synthesis engine**
-- a **learning accelerator**
-
-Combining **human curiosity with AI reasoning** allows complex topics to be explored faster and more systematically.
