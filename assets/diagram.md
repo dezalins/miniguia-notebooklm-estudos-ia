@@ -2,25 +2,7 @@
 
 This diagram represents the workflow used in this project to transform raw learning material into structured knowledge using AI.
 
-Curated Sources
-        │
-        ⏵
-NotebookLM Knowledge Base
-        │
-        ⏵
-Context Analysis
-        │
-        ⏵
-Prompt Engineering
-        │
-        ⏵
-AI Knowledge Extraction
-        │
-        ⏵
-Iterative Questioning
-        │
-        ⏵
-Insights & Structured Study Guide
+Sources → NotebookLM → Prompt Engineering → Insights → Study Guide
 
 ## Workflow Explanation
 
